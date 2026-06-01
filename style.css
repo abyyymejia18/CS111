@@ -12,7 +12,7 @@ html {
 
 body {
 
-background-color:red;
+background-color: #FADADD;
 
 } 
 
@@ -29,6 +29,6 @@ h1{
 
    ol {
    font-size:14pt;
-        color: white;
+        color: black;
       list-style: decimal;
    }
