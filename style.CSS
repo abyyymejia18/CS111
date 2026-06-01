@@ -1,0 +1,29 @@
+html {
+/* Author: Abigail Mejia
+   Date: 05/31/2026
+   Description: Style sheet for my first web page. */
+
+ 
+  height: 100%;
+  width: 100%;
+}
+
+body {
+
+  p{
+font-size:15pt;
+  }
+background-color: #FADADD;
+
+
+h1{
+   text-shadow:2px 2px 5px black;
+  font-family;"Arial";
+  color: white;
+}
+
+   ol {
+   font-size:14pt;
+        color: dark white;
+      list-style: number;
+   }
